@@ -1,6 +1,16 @@
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/shd1495"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
   <div align=center>
     <h3>Environment</h3>
   	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
